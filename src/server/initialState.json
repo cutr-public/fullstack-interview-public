@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "label": "Labour",
+      "value": 45,
+      "quantity": 1
+    },
+    {
+      "label": "Materials",
+      "value": 30,
+      "quantity": 3
+    },
+    {
+      "label": "Painting",
+      "value": 25,
+      "quantity": 1
+    },
+    {
+      "label": "Sanding",
+      "value": 0.35,
+      "quantity": 12
+    }
+  ]
+}
